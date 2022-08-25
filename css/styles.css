@@ -1,0 +1,29 @@
+h1{
+    background-color: aqua;
+    color: black;
+    margin-top: 20px;
+    text-align: center;
+    font-family: Verdana;
+}
+h2{
+    font-size: 35px;
+    color: blueviolet;
+    font-family: Verdana;
+}
+h3{
+    color: brown;
+    font-size: 35px;
+}
+li{
+    color: rgb(22, 74, 34);
+    font-size: 25px;
+    margin: 5px;
+}
+button{
+    background-color: yellow;
+    font-size: 30px;
+}
+footer{
+    color: red;
+    font-size: 30px;
+}
